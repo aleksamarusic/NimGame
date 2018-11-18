@@ -1,0 +1,13 @@
+E:\Aleksa\github\NimGame\NimGame\bin\Debug\NimGame.exe.config
+E:\Aleksa\github\NimGame\NimGame\bin\Debug\NimGame.exe
+E:\Aleksa\github\NimGame\NimGame\bin\Debug\NimGame.pdb
+E:\Aleksa\github\NimGame\NimGame\obj\Debug\etf.nim.ma150129d.csprojResolveAssemblyReference.cache
+E:\Aleksa\github\NimGame\NimGame\obj\Debug\etf.nim.ma150129d.Form1.resources
+E:\Aleksa\github\NimGame\NimGame\obj\Debug\etf.nim.ma150129d.GameBoard.resources
+E:\Aleksa\github\NimGame\NimGame\obj\Debug\etf.nim.ma150129d.GameSettings.resources
+E:\Aleksa\github\NimGame\NimGame\obj\Debug\NimGame.Properties.Resources.resources
+E:\Aleksa\github\NimGame\NimGame\obj\Debug\etf.nim.ma150129d.csproj.GenerateResource.cache
+E:\Aleksa\github\NimGame\NimGame\obj\Debug\etf.nim.ma150129d.csproj.CoreCompileInputs.cache
+E:\Aleksa\github\NimGame\NimGame\obj\Debug\etf.nim.ma150129d.csproj.CopyComplete
+E:\Aleksa\github\NimGame\NimGame\obj\Debug\NimGame.exe
+E:\Aleksa\github\NimGame\NimGame\obj\Debug\NimGame.pdb
